@@ -6,13 +6,15 @@ export const metadata: Metadata = {
   description: "Expert car maintenance services",
 };
 
-export default function LocaleLayout({
+export default async function LocaleLayout({
   children,
-  params: { locale },
+  params,
 }: {
   children: React.ReactNode;
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 }) {
+  const { locale } = await params;
+
   return (
     <html lang={locale} dir={locale === "ar" ? "rtl" : "ltr"}>
       <body>{children}</body>
