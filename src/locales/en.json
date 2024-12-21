@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "home": "Home",
+    "contact": "Contact Us",
+    "location": "Location"
+  },
+  "hero": {
+    "title": "Happy Car Company",
+    "tagline": "Car Maintenance Made Easy",
+    "cta": "Explore our Services"
+  },
+  "contact": {
+    "whatsapp": "Contact us on WhatsApp",
+    "email": "Email us",
+    "emailPlaceholder": "Enter your email",
+    "submit": "Submit"
+  },
+  "location": {
+    "title": "Our location",
+    "description": "8713 Makkah Al Mukarramah St, Sinayiat Al Thuqba, Al Khobar 34626, Saudi Arabia"
+  },
+  "footer": {
+    "rights": "All rights reserved"
+  }
+}

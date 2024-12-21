@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "contact": "اتصل بنا",
+    "location": "الموقع"
+  },
+  "hero": {
+    "title": "شركة السيارة السعيدة",
+    "tagline": "صيانة السيارات بسهولة",
+    "cta": "استكشف خدماتنا"
+  },
+  "contact": {
+    "whatsapp": "تواصل معنا عبر واتساب",
+    "email": "راسلنا عبر البريد الإلكتروني",
+    "emailPlaceholder": "أدخل بريدك الإلكتروني",
+    "submit": "إرسال"
+  },
+  "location": {
+    "title": "موقعنا",
+    "description": "8713 Makkah Al Mukarramah St, Sinayiat Al Thuqba, Al Khobar 34626, Saudi Arabia"
+  },
+  "footer": {
+    "rights": "جميع الحقوق محفوظة"
+  }
+}
